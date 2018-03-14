@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "extends": ["standard", "standard-react"],
+  "rules": {
+    "lines-between-class-members": ["error", "always"]
+  }
+}
